@@ -3,9 +3,11 @@ Nama Projek : Projek Roster
 
 Nama Kelompok : Kelompok Deadliner
 
-Anggota Kelompok :  1) 251401010 - Debora Graselia Pasaribu 
+Anggota Kelompok :  
 
-                    2) 251401070 - Aiyla Nazneen Ramadhan 
+1) 251401010 - Debora Graselia Pasaribu
+  
+2) 251401070 - Aiyla Nazneen Ramadhan 
 
 Link Gdrive : https://drive.google.com/file/d/14KEVWFCuQt8L-pDkAYG2NlbhQUYR6DE0/view?usp=drivesdk
 
